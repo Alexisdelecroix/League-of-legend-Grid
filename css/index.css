@@ -33,10 +33,12 @@ ul {
     text-align: center;
     padding: 16px;
     text-decoration: none;
-    border-right: rgb(126, 67, 12) solid 1px;
   }
   
   li a:hover {
     background-color: rgb(185, 98, 17);
   }
   
+  .caroustop{
+    padding-top: 20px;
+  }
