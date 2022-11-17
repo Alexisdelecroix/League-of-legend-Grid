@@ -10,7 +10,9 @@
                         "ar as at au av ax"
                         "ay az ba bb bc bd"
                         "be bf bg bh bi bj"
-                        "bk bl bm bn bo bp";
+                        "bk bl bm bn bo bp"
+                        "bq br bs bt bu bv"
+                         ;
                         column-gap: 10px;
                         row-gap: 10px;
 
@@ -96,3 +98,12 @@ img{
 #neeko{grid-area: bi;}
 #nami{grid-area: bj;}
 #orianna{grid-area: bd;}
+#garen{grid-area: bk /span 2 / span 2 / span 2;}
+#nasus{grid-area: bl;}
+#shen{grid-area: bm;}
+#gangplank{grid-area: bv;}
+#jarvan{grid-area: bs;}
+#olaf{grid-area: bk;}
+#pantheon{grid-area: br;}
+#nocturne{grid-area: bq;}
+#blitzcrank{grid-area: bp;}
