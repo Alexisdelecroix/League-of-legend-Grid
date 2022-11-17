@@ -37,6 +37,8 @@
     opacity: 0;
     transition: 
     opacity 0.3s;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
   .fullwrap:hover .fullcap {
