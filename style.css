@@ -95,8 +95,8 @@ h1{
 .fullcap {
     /* (C1) DIMENSIONS */
     box-sizing: border-box;
-    width: 100%;
-    height: 100%;
+     width: 100%;
+    height: 100%; 
    
     /* (C2) POSITION */
     position: absolute;
