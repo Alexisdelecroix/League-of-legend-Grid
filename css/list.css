@@ -4,7 +4,13 @@
                         "g h i j k l"
                         "m n o p q r"
                         " s t u v w x "
-                        " y z aa ab ac ad";
+                        " y z aa ab ac ad"
+                        "ae af ag ah ai aj"
+                        "ak al am an ao aq"
+                        "ar as at au av ax"
+                        "ay az ba bb bc bd"
+                        "be bf bg bh bi bj"
+                        "bk bl bm bn bo bp";
                         column-gap: 10px;
                         row-gap: 10px;
 
@@ -52,7 +58,7 @@ img{
     width: 100%;
     height: 100%;
 }
-#akali{grid-area: g / span 2 / span 2/ span 2;}
+#akali{grid-area: ae / span 6 / span 6/ span 6;}
 #darius{grid-area: b;}
 #kaisa{grid-area: p / span 3 / span 3 / span 3;}
 #leona{grid-area: d;}
@@ -71,4 +77,4 @@ img{
 #caitlyn{grid-area: y;}
 #miss{grid-area: z;}
 #ahri{grid-area: aa;}
-
+#sivir{grid-area: g / span 2 / span 2/ span 2;}
