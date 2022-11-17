@@ -63,7 +63,7 @@ img{
 #kaisa{grid-area: p / span 3 / span 3 / span 3;}
 #leona{grid-area: d;}
 #lillia{grid-area: e;}
-#qiyana{grid-area: f;}
+#qiyana{grid-area: g / span 2 / span 2/ span 2;}
 #ashe{grid-area: a;}
 #seraphine{grid-area: i;}
 #shyvana{grid-area: j;}
@@ -77,4 +77,4 @@ img{
 #caitlyn{grid-area: y;}
 #miss{grid-area: z;}
 #ahri{grid-area: aa;}
-#sivir{grid-area: g / span 2 / span 2/ span 2;}
+#sivir{grid-area: f;}
