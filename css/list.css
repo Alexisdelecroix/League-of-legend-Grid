@@ -58,7 +58,7 @@ img{
     width: 100%;
     height: 100%;
 }
-#akali{grid-area: ae / span 6 / span 6/ span 6;}
+#akali{grid-area: af / span 4 / span 4/ span 4;}
 #darius{grid-area: b;}
 #kaisa{grid-area: p / span 3 / span 3 / span 3;}
 #leona{grid-area: d;}
@@ -78,3 +78,13 @@ img{
 #miss{grid-area: z;}
 #ahri{grid-area: aa;}
 #sivir{grid-area: f;}
+#katarina{grid-area: ae;}
+#jinx{grid-area: aj;}
+#irelia{grid-area: ak;}
+#fiora{grid-area: aq;}
+#annie{grid-area: ay;}
+#braum{grid-area: ax;}
+#camille{grid-area: bg;}
+#kayle{grid-area: bj;}
+#kindred{grid-area: be;}
+#kayle{grid-area: bf;}
