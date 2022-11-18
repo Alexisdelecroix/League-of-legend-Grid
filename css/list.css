@@ -16,9 +16,9 @@
                         column-gap: 10px;
                         row-gap: 10px;
 
-                        margin-left: 5%;
-                        margin-right: 5%;
-                        margin-top: 5%;
+                        margin-left: 6%;
+                        margin-right: 6%;
+                        margin-top: 6%;
                         
 }
 
@@ -64,12 +64,12 @@ img{
     width: 100%;
     height: 100%;
 }
-#akali{grid-area: af / span 4 / span 4/ span 4;}
+#akali{grid-area: af / span 4 / span 4;}
 #darius{grid-area: b;}
-#kaisa{grid-area: p / span 3 / span 3 / span 3;}
+#kaisa{grid-area: p / span 3 / span 3;}
 #leona{grid-area: d;}
 #lillia{grid-area: e;}
-#qiyana{grid-area: g / span 2 / span 2/ span 2;}
+#qiyana{grid-area: g / span 2 / span 2;}
 #ashe{grid-area: a;}
 #seraphine{grid-area: i;}
 #shyvana{grid-area: j;}
@@ -98,12 +98,12 @@ img{
 #neeko{grid-area: bi;}
 #nami{grid-area: bj;}
 #orianna{grid-area: bd;}
-#garen{grid-area: bk /span 2 / span 2 / span 2;}
+#garen{grid-area: bo /span 2 / span 2;}
 #nasus{grid-area: bl;}
 #shen{grid-area: bm;}
-#gangplank{grid-area: bv;}
+#gangplank{grid-area: bn;}
 #jarvan{grid-area: bs;}
 #olaf{grid-area: bk;}
 #pantheon{grid-area: br;}
 #nocturne{grid-area: bq;}
-#blitzcrank{grid-area: bp;}
+#blitzcrank{grid-area: bt;}
